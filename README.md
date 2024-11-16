@@ -67,3 +67,9 @@ By locking these apps, you ensure that their cache remains intact and the KWGT M
 ---
 
 Enjoy your smooth music experience, and feel free to customize it to your heart’s content!
+
+---
+
+# Download 
+
+[Dynamic Music Player.kwgt](https://github.com/RohithPai07/MusicPlayer/blob/main/Dynamic_Music_Player.kwgt)
