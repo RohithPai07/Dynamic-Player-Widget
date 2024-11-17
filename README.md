@@ -73,3 +73,5 @@ Enjoy your smooth music experience, and feel free to customize it to your heartâ
 # Download 
 
 [Dynamic Music Player.kwgt](https://github.com/RohithPai07/MusicPlayer/blob/main/Dynamic_Music_Player.kwgt)
+
+[Download From Telegram](https://t.me/kwgtwidgetsgithub)
