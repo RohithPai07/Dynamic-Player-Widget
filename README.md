@@ -70,8 +70,8 @@ Enjoy your smooth music experience, and feel free to customize it to your heartâ
 
 ---
 
-# Download 
+# Download
 
-[Dynamic Music Player.kwgt](https://github.com/RohithPai07/MusicPlayer/blob/main/Dynamic_Music_Player.kwgt)
+Latest Verison - [Dynamic Music Player v1.1.0](https://objects.githubusercontent.com/github-production-release-asset-2e65be/889604790/8f1787a2-5cea-4120-a9e0-9685d3e94342?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241117T074254Z&X-Amz-Expires=300&X-Amz-Signature=e53f73897a271eaffeaba36025c4205eb3868c8f407b9a289b3f641e4c171bf2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DDynamic_Music_Player_v11.kwgt&response-content-type=application%2Foctet-stream)
 
-[Download From Telegram](https://t.me/kwgtwidgetsgithub)
+Download From Telegram - [Click Here](https://t.me/kwgtwidgetsgithub)
